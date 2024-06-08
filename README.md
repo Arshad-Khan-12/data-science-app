@@ -22,7 +22,7 @@ This Data Science Portal offers complete resources for data science, which helps
 
 ## Live Demo
 
-![](https://data-science-app.netlify.app/)
+Check out the live demo of the Data Science Portal [here](https://data-science-app.netlify.app/).
 
 ## Installation
 
@@ -61,17 +61,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 6. Open a pull request.
 
 Please ensure that your code adheres to the project's coding standards.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Bootstrap](https://getbootstrap.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Iconscout](https://iconscout.com/)
-- [Google Fonts](https://fonts.google.com/)
-- [Swiper.js](https://swiperjs.com/)
-- [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/)
-
