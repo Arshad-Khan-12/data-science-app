@@ -46,8 +46,6 @@ Once you have the project set up, you can navigate through the various sections 
 - **Learn**: Use the provided materials to enhance your understanding of data science concepts.
 - **Interact**: Utilize the integrated chatbot for assistance and guidance.
 
-## Project Structure
-
 
 ## Contributing
 
