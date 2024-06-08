@@ -22,7 +22,7 @@ This Data Science Portal offers complete resources for data science, which helps
 
 ## Live Demo
 
-Check out the live demo of the Data Science Portal [here](https://data-science-app.netlify.app/).
+Check out the live demo of the Data Science Portal [https://data-science-app.netlify.app/](https://data-science-app.netlify.app/).
 
 ## Installation
 
